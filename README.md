@@ -10,6 +10,7 @@
 - 🖌️ In addition to coding, I can also: **Designing Graphics (Photoshop) and Editing Videos (Sony Vegas Pro 16)**
 - ⚡️ What do I want to do here? **I want to improve my programming skills with a large community and help other people.**
 - 📫 If you have work for me or a questions, email me: **0whitedev@gmail.com**
+- 👾 You can also text to me on discord: **0WhiteDev#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
