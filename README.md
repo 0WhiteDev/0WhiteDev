@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0whitedev&label=Profile%20views&color=0e75b6&style=flat" alt="0whitedev" /> </p>
 
 - 🔭 I’m currently working on: **Orders from people**
-- 🔞 My age: **18 years old**
+- 🔞 My age: **19 years old**
 - 🌍 Languages: **Polish, English**
-- 🖥️ I have been coding for **2 years**
+- 🖥️ I have been coding for **3 years**
 - 🖌️ In addition to coding, I can also: **Designing Graphics (Photoshop) and Editing Videos (Sony Vegas Pro 16 / Adobe After Effect)**
 - ⚡️ What do I want to do here? **I want to improve my programming skills with a large community and help other people.**
 - 📫 If you have work for me or a questions, email me: **0whitedev@gmail.com**
