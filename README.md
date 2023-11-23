@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0whitedev&label=Profile%20views&color=0e75b6&style=flat" alt="0whitedev" /> </p>
 
-- 💎 My Team: [@DevsMarket](https://github.com/DEVS-MARKET)
+- 💎 My team: [@DevsMarket](https://github.com/DEVS-MARKET)
 - 🔭 I’m currently working on: **Orders from people**
 - 🔞 My age: **19 years old**
 - 🌍 Languages: **Polish, English**
