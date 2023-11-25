@@ -9,7 +9,7 @@
 - 🌍 Languages: **Polish, English**
 - 🖥️ I have been coding for **3 years**
 - ⌨️ Programming languages I use: **Java, JavaFx, JakartaEE, Python, C#, CSS, JavaScript, SQL**
-- 🎲 Frameworks: **Spring**
+- 🎲 Frameworks: **Maven, Gradle, Spring**
 - 🖌️ In addition to coding, I can also: **Designing Graphics (Photoshop) and Editing Videos (Sony Vegas Pro 16 / Adobe After Effect)**
 - ⚡️ What do I want to do here? **I want to improve my programming skills with a large community and help other people.**
 - 📫 If you have work for me or a questions, email me: **0whitedev@gmail.com**
