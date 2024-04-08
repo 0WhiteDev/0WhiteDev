@@ -5,9 +5,9 @@
 
 - 💎 My team: [@DevsMarket](https://github.com/DEVS-MARKET)
 - 🔭 I’m currently working on: **Orders from people**
-- 🔞 My age: **19 years old**
+- 🔞 My age: **20 years old**
 - 🌍 Languages: **Polish, English**
-- 🖥️ I have been coding for **3 years**
+- 🖥️ I have been coding for **4 years**
 - ⌨️ Programming languages I use / Coding in: **Java, JavaFx, Python, C#, CSS, JavaScript, SQL**
 - 🎲 Frameworks: **Maven, Gradle, JakartaEE, Spring**
 - 🖌️ In addition to coding, I can also: **Designing Graphics (Photoshop) and Editing Videos (Sony Vegas Pro 16 / Adobe After Effect)**
