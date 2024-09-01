@@ -8,7 +8,7 @@
 - 🔞 My age: **20 years old**
 - 🌍 Languages: **Polish, English**
 - 🖥️ I have been coding for **4 years**
-- ⌨️ Programming languages I use / Coding in: **Java, Python, C#, CSS, JavaScript, SQL**
+- ⌨️ Programming languages I use / Coding in: **Java, Python, C#, C++, CSS, JavaScript, SQL**
 - 🎲 Frameworks: **JakartaEE, Spring, Tailwind**
 - 🖌️ In addition to coding, I can also: **Designing Graphics (Photoshop/Illustrator) and Editing Videos (Sony Vegas Pro 16 / Adobe After Effect)**
 - ⚡️ What do I want to do here? **I want to improve my programming skills with a large community and help other people.**
