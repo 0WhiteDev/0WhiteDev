@@ -5,7 +5,7 @@
 
 - 💎 My team: [@DevsMarket](https://github.com/DEVS-MARKET)
 - 🔭 I’m currently working on: **Orders from people**
-- 🔞 My age: **20 years old**
+- 🔞 My age: **21 years old**
 - 🌍 Languages: **Polish, English**
 - 🖥️ I have been coding for **5 years**
 - ⌨️ Programming languages I use / Coding in: **Java, Python, C#, C++, CSS, JavaScript, SQL**
