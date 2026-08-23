@@ -111,7 +111,7 @@ Beyond programming, I also work with digital content creation.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=0WhiteDev&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=0WhiteDev&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
