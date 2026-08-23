@@ -106,13 +106,7 @@ Beyond programming, I also work with digital content creation.
 
 <br/><br/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0WhiteDev&theme=github_dark" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0WhiteDev&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=0WhiteDev&theme=github-dark-blue&hide_border=true" />
-
 </div>
 
 ---
