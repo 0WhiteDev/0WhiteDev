@@ -103,7 +103,7 @@ Beyond programming, I also work with digital content creation.
 <div align="center">
 
 <img height="180em" src="https://github-stats-extended.vercel.app/api?username=0WhiteDev&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0WhiteDev&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0WhiteDev&theme=dark" />
 </div>
 
 ---
