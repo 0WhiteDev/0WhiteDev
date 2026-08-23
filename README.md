@@ -8,7 +8,7 @@ Software Engineer focused on Java, Web Development, Reverse Engineering and Full
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+React;Backend+Architecture+%26+Cloud;Reverse+Engineering+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer%3BJava+%7C+Spring+Boot+%7C+React%3BBackend+Architecture+%26+Cloud%3BReverse+Engineering+%26+Low-Level+Systems" />
 
 </div>
 
@@ -28,7 +28,7 @@ Specialization:
   - Full-Stack Development
 
 Experience:
-  - 6+ years coding
+  - 7+ years coding
 
 Interested In:
   - Website Building
@@ -102,9 +102,9 @@ Beyond programming, I also work with digital content creation.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0WhiteDev&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=0WhiteDev&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0WhiteDev&layout=compact&theme=dark&hide_border=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=0WhiteDev&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
