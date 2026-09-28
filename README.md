@@ -28,7 +28,8 @@ Specialization:
   - Full-Stack Development
 
 Experience:
-  - 7+ years coding
+  - 7+ years of overall coding experience
+  - 3+ years of commercial development experience
 
 Interested In:
   - Website Building
